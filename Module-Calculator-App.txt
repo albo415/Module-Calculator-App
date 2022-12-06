@@ -1,0 +1,15 @@
+Module-Calculator-App Guide
+
+1. Insert number a
+2. Click POWER
+3. Insert number b
+4.Click MODULE
+5. Insert number c
+6. Click = to get result
+
+result = (a^b) mod c
+
+Font by Snickers, Mars inc.
+Attribution-NoDerivatives 4.0 International
+Creative Commons, created by Alberto Falciola
+
